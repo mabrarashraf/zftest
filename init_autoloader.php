@@ -1,7 +1,5 @@
 
 <?php
-//Muhammad Abrar Ashraf
-
 /**
  * Zend Framework (http://framework.zend.com/)
  *
